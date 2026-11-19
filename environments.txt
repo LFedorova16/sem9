@@ -1,0 +1,2 @@
+/home/Luda/anaconda3
+/home/Luda/anaconda3/envs/seminar10
